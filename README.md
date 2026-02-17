@@ -1,7 +1,7 @@
 ## Aristotle Polites  
 Data Analyst | SQL | Excel Modeling | Behavioral Analytics  
 
-I build structured, normalized models that turn behavioral and business data into actionable insight.
+I build structured, normalized models that convert behavioral and business data into actionable insight.
 
 ### Technical Skills
 - SQL (PostgreSQL) – CTEs, window functions, joins, aggregation
@@ -25,5 +25,5 @@ Built a normalized selection model to identify structural dominance and class–
 - Advanced SQL optimization
 
 ### Connect
-- LinkedIn: [linkedin.com/in/apolites](https://linkedin.com/in/apolites1225)
+- LinkedIn: [linkedin.com/in/apolites](https://linkedin.com/in/apolites)
 - Email: [apolites1225@email.com](mailto:your@email.com)
