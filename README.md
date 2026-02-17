@@ -1,16 +1,29 @@
-## Hi there 👋
+## Aristotle Polites  
+Data Analyst | SQL | Excel Modeling | Behavioral Analytics  
 
-<!--
-**apolites1225/apolites1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build structured, normalized models that turn behavioral and business data into actionable insight.
 
-Here are some ideas to get you started:
+### Technical Skills
+- SQL (PostgreSQL) – CTEs, window functions, joins, aggregation
+- Excel – Advanced formulas, modeling, normalization logic
+- Data Modeling – Threshold design, correlation analysis, bias detection
+- Visualization – Tableau (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+**Ecommerce Revenue & Customer Analysis (SQL)**  
+Revenue concentration analysis using CTE pipelines and window functions. Identified product-level risk and data quality gaps.  
+[View Repository](https://github.com/apolites1225/customer-holster-solutions-commerce-analysis)
+
+**Battlefield 6 Loadout Behavioral Modeling (Excel)**  
+Built a normalized selection model to identify structural dominance and class–mode correlations.  
+[View Repository](https://github.com/apolites1225/battlefield6-loadout-behavior-analysis)
+
+### Currently Developing
+- Tableau dashboard design
+- Python (pandas, matplotlib)
+- Advanced SQL optimization
+
+### Connect
+- LinkedIn: [linkedin.com/in/apolites](https://linkedin.com/in/apolites1225)
+- Email: [apolites1225@email.com](mailto:your@email.com)
