@@ -20,7 +20,7 @@ Built a normalized selection model to identify structural dominance and class–
 [View Repository](https://github.com/apolites1225/battlefield6-loadout-behavior-analysis)
 
 ### Currently Developing
-- Tableau dashboard design
+- Power BI dashboard design
 - Python (pandas, matplotlib)
 - Advanced SQL optimization
 
