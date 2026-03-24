@@ -1,13 +1,13 @@
 ## Aristotle Polites  
-Data Analyst | SQL | Excel Modeling | Behavioral Analytics  
+Data Analyst | SQL | Power BI | Excel
 
 I build structured, normalized models that convert behavioral and business data into actionable insight.
 
 ### Technical Skills
-- SQL (PostgreSQL) – CTEs, window functions, joins, aggregation
-- Excel – Advanced formulas, modeling, normalization logic
-- Data Modeling – Threshold design, correlation analysis, bias detection
-- Visualization – Tableau (in progress)
+- SQL (PostgreSQL): CTEs, window functions, joins, aggregations
+- Power BI: Dashboard development, DAX measures, data modeling
+- Excel: Advanced formulas, financial modeling, structured analysis
+- Data Analysis: Customer segmentation, revenue analysis, trend analysis
 
 ### Featured Projects
 
