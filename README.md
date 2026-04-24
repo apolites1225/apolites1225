@@ -1,13 +1,13 @@
 ## Aristotle Polites  
 Data Analyst | SQL | Power BI | Excel
 
-I build structured, normalized models that convert behavioral and business data into actionable insight.
+Entry-level Data Analyst with hands-on experience analyzing e-commerce data to uncover insights in revenue, customer behavior, and product performance. Skilled in SQL and Power BI to transform raw datasets into actionable business insights and dashboards.
 
 ### Technical Skills
-- SQL (PostgreSQL): CTEs, window functions, joins, aggregations
+- SQL (PostgreSQL): Joins, CTEs, aggregations, window functions
 - Power BI: Dashboard development, DAX measures, data modeling
-- Excel: Advanced formulas, financial modeling, structured analysis
-- Data Analysis: Customer segmentation, revenue analysis, trend analysis
+- Excel: Pivot tables, XLOOKUP, data analysis, financial modeling
+- Analytics: Revenue analysis, customer segmentation, trend analysis
 
 ### Featured Projects
 
@@ -15,9 +15,9 @@ I build structured, normalized models that convert behavioral and business data 
 Revenue concentration analysis using CTE pipelines and window functions. Identified product-level risk and data quality gaps.  
 [View Repository](https://github.com/apolites1225/customer-holster-solutions-commerce-analysis)
 
-**Battlefield 6 Loadout Behavioral Modeling (Excel)**  
-Built a normalized selection model to identify structural dominance and class–mode correlations.  
-[View Repository](https://github.com/apolites1225/battlefield6-loadout-behavior-analysis)
+**E-Commerce Dashboard (Power BI))**  
+Developed an interactive dashboard to analyze revenue, customer behavior, and product performance.
+[View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
 
 ### Currently Developing
 - Power BI dashboard design
