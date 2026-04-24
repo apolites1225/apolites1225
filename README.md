@@ -13,10 +13,12 @@ Entry-level Data Analyst with hands-on experience analyzing e-commerce data to u
 
 **Ecommerce Revenue & Customer Analysis (SQL)**  
 Revenue concentration analysis using CTE pipelines and window functions. Identified product-level risk and data quality gaps.  
+
 [View Repository](https://github.com/apolites1225/customer-holster-solutions-commerce-analysis)
 
 **E-Commerce Dashboard (Power BI))**  
 Developed an interactive dashboard to analyze revenue, customer behavior, and product performance.
+
 [View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
 
 ### Currently Developing
