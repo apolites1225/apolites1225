@@ -16,7 +16,7 @@ Revenue concentration analysis using CTE pipelines and window functions. Identif
 [View Repository](https://github.com/apolites1225/customer-holster-solutions-commerce-analysis)
 
 **E-Commerce Dashboard (Power BI))**  
-Developed an interactive dashboard to analyze revenue, customer behavior, and product performance. 
+Developed an interactive dashboard to analyze revenue, customer behavior, and product performance.    
 [View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
 
 ### Currently Developing
