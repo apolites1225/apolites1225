@@ -15,7 +15,8 @@ Analyst with experience analyzing e-commerce data to uncover insights in revenue
 <br></br>
 ![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/ecommerce-revenue-analysis/main/images/geography_page.png)
 
-Interactive Power BI dashboard analyzing revenue trends, customer behavior, and geographic sales concentration. 
+Interactive Power BI dashboard analyzing revenue trends, customer behavior, and geographic sales concentration.
+
 [View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
 <br><br>
 #### Product Concentration Analysis (SQL)
