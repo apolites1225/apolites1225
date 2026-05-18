@@ -13,6 +13,7 @@ Analyst with experience analyzing e-commerce data to uncover insights in revenue
 
 #### eCommerce Sales Dashboard (SQL + Power BI)
 Interactive Power BI dashboard analyzing revenue trends, customer behavior, and geographic sales concentration.
+Identified significant geographic concentration, with São Paulo generating approximately 37% of total revenue.
 <br></br>
 ![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/ecommerce-revenue-analysis/main/images/geography_page.png) 
 [View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
@@ -20,6 +21,7 @@ Interactive Power BI dashboard analyzing revenue trends, customer behavior, and 
 
 #### Product Concentration Analysis (SQL)
 Analyzed revenue concentration using PostgreSQL CTEs and window functions to identify top-performing products and cumulative revenue contribution.
+The top 5 product variants generated over 98% of total net sales, creating significant product concentration risk.
 <br></br>
 <img src="https://raw.githubusercontent.com/apolites1225/customer-behavior-analysis/main/revenue_concentration_query.png" width="700">   
 [View Repository](https://github.com/apolites1225/customer-behavior-analysis)
