@@ -17,6 +17,7 @@ Developed an interactive dashboard analyzing revenue trends, customer behavior, 
 [View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
 
 
+
 #### Product Concentration Analysis (SQL)
 Revenue concentration analysis using CTE pipelines and window functions. Identified product-level risk and data quality gaps.  
 
@@ -25,7 +26,7 @@ Revenue concentration analysis using CTE pipelines and window functions. Identif
 ### Currently Developing
 - Tableau dashboard design
 - Python (pandas, matplotlib)
-- Advanced SQL optimization
+- GA4 & marketing analytics
 
 ### Connect
 - LinkedIn: [linkedin.com/in/apolites](https://linkedin.com/in/apolites)
