@@ -12,8 +12,8 @@ Analyst with experience analyzing e-commerce data to uncover insights in revenue
 ### Featured Projects
 
 #### eCommerce Sales Dashboard (SQL + Power BI)
-<br></br>
 Interactive Power BI dashboard analyzing revenue trends, customer behavior, and geographic sales concentration.
+<br></br>
 ![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/ecommerce-revenue-analysis/main/images/geography_page.png) 
 [View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
 
@@ -21,7 +21,7 @@ Interactive Power BI dashboard analyzing revenue trends, customer behavior, and 
 #### Product Concentration Analysis (SQL)
 Analyzed revenue concentration using PostgreSQL CTEs and window functions to identify top-performing products and cumulative revenue share.
 <br></br>
-![SQL Query Preview](https://raw.githubusercontent.com/apolites1225/customer-behavior-analysis/main/revenue_concentration_query.png)
+![SQL Query Preview](https://raw.githubusercontent.com/apolites1225/customer-behavior-analysis/main/revenue_concentration_query.png) 
 [View Repository](https://github.com/apolites1225/customer-behavior-analysis)
 
 ### Currently Developing
