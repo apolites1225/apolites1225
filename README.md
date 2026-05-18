@@ -20,7 +20,7 @@ Developed an interactive dashboard analyzing revenue trends, customer behavior, 
 [View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
 
 ### Currently Developing
-- Power BI dashboard design
+- Tableau dashboard design
 - Python (pandas, matplotlib)
 - Advanced SQL optimization
 
