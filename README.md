@@ -21,7 +21,7 @@ Identified significant geographic concentration, with São Paulo generating appr
 
 #### Product Concentration Analysis (SQL)
 Analyzed revenue concentration using PostgreSQL CTEs and window functions to identify top-performing products and cumulative revenue contribution.
-The top 5 product variants generated over 98% of total net sales, creating significant product concentration risk.
+The top 5 product variants accounted for over 98% of total net sales, creating significant product concentration risk.
 <br></br>
 <img src="https://raw.githubusercontent.com/apolites1225/customer-behavior-analysis/main/revenue_concentration_query.png" width="700">   
 [View Repository](https://github.com/apolites1225/customer-behavior-analysis)
