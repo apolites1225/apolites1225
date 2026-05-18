@@ -11,7 +11,7 @@ Analyst with experience analyzing e-commerce data to uncover insights in revenue
 
 ### Featured Projects
 
-#### eCommerce Sales Dashboard (SQL + Power BI))
+#### eCommerce Sales Dashboard (SQL + Power BI)
 <br></br>
 ![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/ecommerce-revenue-analysis/main/images/geography_page.png)
 
