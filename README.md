@@ -18,6 +18,7 @@ Developed an interactive dashboard analyzing revenue trends, customer behavior, 
 
 
 
+
 #### Product Concentration Analysis (SQL)
 Revenue concentration analysis using CTE pipelines and window functions. Identified product-level risk and data quality gaps.  
 
