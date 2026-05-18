@@ -20,7 +20,7 @@ Developed an interactive dashboard analyzing revenue trends, customer behavior, 
 <br><br>
 #### Product Concentration Analysis (SQL)
 <br></br>
-![SQL Query Preview](revenue_concentration_query.png)
+![SQL Query Preview](https://raw.githubusercontent.com/apolites1225/customer-behavior-analysis/main/revenue_concentration_query.png)
 
 Revenue concentration analysis using CTE pipelines and window functions. Identified product-level risk and data quality gaps.  
 [View Repository](https://github.com/apolites1225/customer-holster-solutions-commerce-analysis)
