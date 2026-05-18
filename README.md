@@ -12,7 +12,7 @@ Data Analyst with hands-on experience analyzing e-commerce data to uncover insig
 ### Featured Projects
 
 **Customer & Product Revenue Analysis (SQL)**  
-Revenue concentration analysis using CTE pipelines and window functions. Identified product-level risk and data quality gaps. 
+Revenue concentration analysis using CTE pipelines and window functions. Identified product-level risk and data quality gaps.    
 [View Repository](https://github.com/apolites1225/customer-holster-solutions-commerce-analysis)
 
 **eCommerce Sales Dashboard (SQL + Power BI))**  
