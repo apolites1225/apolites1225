@@ -11,7 +11,7 @@ Analyst with experience analyzing e-commerce data to uncover insights in revenue
 
 ### Featured Projects
 
-#### eCommerce Sales Dashboard (SQL + Power BI)
+#### Olist - Revenue & Customer Analytics
 Interactive Power BI dashboard analyzing revenue trends, customer behavior, and geographic sales concentration.
 Identified significant geographic concentration, with São Paulo generating approximately 37% of total revenue.
 <br></br>
@@ -19,7 +19,7 @@ Identified significant geographic concentration, with São Paulo generating appr
 [View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
 <br><br>
 
-#### Product Concentration Analysis (SQL)
+#### Custom Holster Solutions - Sales & Product Analytics
 Analyzed revenue concentration using PostgreSQL CTEs and window functions to identify top-performing products and cumulative revenue contribution.
 The top 5 product variants accounted for over 98% of total net sales, creating significant product concentration risk.
 <br></br>
