@@ -1,5 +1,5 @@
 ## Aristotle Polites  
-Data Analyst | SQL | Power BI | Excel
+Turning Data Into Actionable Business Insights
 
 Data Analyst with hands-on experience analyzing e-commerce data to uncover insights in revenue, customer behavior, and product performance. Skilled in SQL, Excel and Power BI to transform raw datasets into actionable business insights and dashboards.
 
