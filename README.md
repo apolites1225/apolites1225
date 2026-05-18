@@ -19,11 +19,12 @@ Interactive Power BI dashboard analyzing revenue trends, customer behavior, and 
 [View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
 <br><br>
 #### Product Concentration Analysis (SQL)
+Analyzed revenue concentration using PostgreSQL CTEs and window functions to identify top-performing products and cumulative revenue share.
 <br></br>
 ![SQL Query Preview](https://raw.githubusercontent.com/apolites1225/customer-behavior-analysis/main/revenue_concentration_query.png)
 
 Revenue concentration analysis using CTE pipelines and window functions. Identified product-level risk and data quality gaps.  
-[View Repository](https://github.com/apolites1225/customer-holster-solutions-commerce-analysis)
+[View Repository](https://github.com/apolites1225/customer-behavior-analysis)
 
 ### Currently Developing
 - Tableau dashboard design
