@@ -11,13 +11,13 @@ Analyst with experience analyzing e-commerce data to uncover insights in revenue
 
 ### Featured Projects
 
-#### eCommerce Sales Dashboard (SQL + Power BI))**  
+#### eCommerce Sales Dashboard (SQL + Power BI))
 Developed an interactive dashboard analyzing revenue trends, customer behavior, and product category performance using SQL and Power BI.  
 
 [View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
 
 
-#### Product Concentration Analysis (SQL)**  
+#### Product Concentration Analysis (SQL)
 Revenue concentration analysis using CTE pipelines and window functions. Identified product-level risk and data quality gaps.  
 
 [View Repository](https://github.com/apolites1225/customer-holster-solutions-commerce-analysis)
