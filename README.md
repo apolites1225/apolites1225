@@ -1,37 +1,56 @@
-## Aristotle Polites  
-Turning Data Into Actionable Business Insights
+## Aristotle Polites
+**Turning Data Into Actionable Business Insights**
 
-Analyst with experience analyzing e-commerce data to uncover insights in revenue, customer behavior, and product performance. Skilled in SQL, Excel and Power BI to transform raw datasets into actionable business insights and dashboards.
+Data Analyst with experience in financial modeling, customer behavior analysis, and marketing analytics across retail, eCommerce, and marketing environments. Skilled in SQL, Excel, and Power BI to transform raw datasets into interactive dashboards and business insights.
+
+---
 
 ### Technical Skills
-- SQL (PostgreSQL): Joins, CTEs, aggregations, window functions
-- Power BI: Dashboard development, DAX measures, data modeling
-- Excel: Pivot tables, XLOOKUP, data analysis, financial modeling
-- Analytics: Revenue analysis, customer segmentation, trend analysis
+- **SQL (PostgreSQL):** Joins, CTEs, aggregations, window functions
+- **Excel:** Power Query, Power Pivot, DAX, VBA, financial modeling, dashboard development
+- **Power BI:** Dashboard development, DAX measures, data modeling
+- **Analytics:** Revenue analysis, customer segmentation, campaign performance, KPI reporting
+
+---
 
 ### Featured Projects
 
-#### Olist - Revenue & Customer Analytics
-Interactive Power BI dashboard analyzing revenue trends, customer behavior, and geographic sales concentration.
-Identified significant geographic concentration, with São Paulo generating approximately 37% of total revenue.
-<br></br>
-![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/ecommerce-revenue-analysis/main/images/geography_page.png) 
-[View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
-<br><br>
+#### 📊 iFood — Marketing Campaign Performance
+Interactive Excel dashboard analyzing marketing campaign performance across 2,205 customers using Power Query, Power Pivot, DAX, and VBA. Identified Campaign 6 as the top performer at 15.1% acceptance rate vs. 7.5% overall average.
 
-#### Custom Holster Solutions - Sales & Product Analytics
-Analyzed revenue concentration using PostgreSQL CTEs and window functions to identify top-performing products and cumulative revenue contribution.
-The top 5 product variants accounted for over 98% of total net sales, creating significant product concentration risk.
-<br></br>
-<img src="https://raw.githubusercontent.com/apolites1225/customer-behavior-analysis/main/revenue_concentration_query.png" width="700">   
-[View Repository](https://github.com/apolites1225/customer-behavior-analysis)
-<br><br>
+![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/ifood-campaign-analysis/main/dashboard_preview2.png)
+
+[View Repository](https://github.com/apolites1225/ifood-campaign-analysis)
+
+<br>
+
+#### 🛒 Olist — Revenue & Customer Analytics
+Interactive Power BI dashboard analyzing 96K orders and R$15.4M in revenue across customer behavior, product performance, and geographic sales concentration. São Paulo accounted for 37.4% of total revenue.
+
+![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/ecommerce-revenue-analysis/main/images/geography_page.png)
+
+[View Repository](https://github.com/apolites1225/ecommerce-revenue-analysis)
+
+<br>
+
+#### 🔫 Custom Holster Solutions — Sales & Product Analytics
+PostgreSQL analysis of revenue concentration across 356 customer records and 6+ relational tables. The top 5 SKUs accounted for over 98% of total net sales, revealing significant product concentration risk.
+
+<img src="https://raw.githubusercontent.com/apolites1225/customer-holster-sales-analysis/main/revenue_concentration_query.png" width="700">
+
+[View Repository](https://github.com/apolites1225/customer-holster-sales-analysis)
+
+<br>
+
+---
 
 ### Currently Developing
 - Tableau dashboard design
 - Python (pandas, matplotlib)
 - GA4 & marketing analytics
 
+---
+
 ### Connect
-- LinkedIn: [linkedin.com/in/apolites](https://linkedin.com/in/apolites)
-- Email: [apolites1225@email.com](mailto:your@email.com)
+- 💼 [LinkedIn](https://linkedin.com/in/aristotlepolites/)
+- 📧 [aristotle.polites@gmail.com](mailto:aristotle.polites@gmail.com)
