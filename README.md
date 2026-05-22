@@ -16,9 +16,9 @@ Data Analyst with experience in financial modeling, customer behavior analysis, 
 ### Featured Projects
 
 #### 📊 iFood — Marketing Campaign Performance
-Interactive Excel dashboard analyzing marketing campaign performance across 2,205 customers using Power Query, Power Pivot, DAX, and VBA. Identified Campaign 6 as the top performer at 15.1% acceptance rate vs. 7.5% overall average.
+Interactive Excel dashboard analyzing marketing campaign performance across 2,021 customers using Power Query, Power Pivot, DAX, and VBA. Identified Campaign 6 as the top performer at 15.4% acceptance rate vs. 7.6% overall average.
 
-![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/ifood-campaign-analysis/main/dashboard_preview2.png)
+![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/ifood-campaign-analysis/main/dashboard_preview_3.png)
 
 [View Repository](https://github.com/apolites1225/ifood-campaign-analysis)
 
