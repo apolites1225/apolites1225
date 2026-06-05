@@ -11,7 +11,7 @@ Data Analyst with experience in financial modeling, revenue analysis, and pricin
 - **Power BI:** Dashboard development, DAX measures, data modeling
 - **Analytics:** Revenue analysis, pricing analysis, variance reporting, financial modeling, KPI reporting
      
-      ---
+---
 
   ### Featured Projects
 
