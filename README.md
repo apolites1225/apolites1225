@@ -52,4 +52,4 @@ Data Analyst with experience in financial modeling, revenue analysis, and pricin
   ---
 ### Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/aristotlepolites/)
-  - 📧 [aristotle.polites@gmail.com](mailto:aristotle.polites@gmail.com)
+- 📧 [aristotle.polites@gmail.com](mailto:aristotle.polites@gmail.com)
