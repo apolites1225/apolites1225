@@ -51,4 +51,5 @@ FP&A Analyst with hands-on experience building financial models, variance analys
 
  ### Connect
 💼 [LinkedIn](https://www.linkedin.com/in/aristotlepolites)
+
 📧 aristotle.polites@gmail.com
