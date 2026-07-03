@@ -9,8 +9,8 @@ FP&A Analyst with hands-on experience building financial models, variance analys
 ### Technical Skills
 - **SQL (PostgreSQL):** Joins, CTEs, aggregations, window functions
 - **Excel:** Power Query, Power Pivot, DAX, VBA, financial modeling, scenario analysis, dashboard development
-  - **Power BI:** Dashboard development, DAX measures, data modeling
-    - **FP&A:** Budgeting & forecasting, variance analysis, contribution margin analysis, P&L reporting, KPI reporting
+- **Power BI:** Dashboard development, DAX measures, data modeling
+- **FP&A:** Budgeting & forecasting, variance analysis, contribution margin analysis, P&L reporting, KPI reporting
      
       ---
 
