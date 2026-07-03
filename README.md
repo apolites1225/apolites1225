@@ -49,6 +49,6 @@ FP&A Analyst with hands-on experience building financial models, variance analys
    - Python for FP&A automation (pandas, openpyxl, financial modeling)
    - Advanced Excel: scenario modeling, sensitivity analysis, rolling forecasts
 
-### Connect
-    - 💼 [LinkedIn](https://www.linkedin.com/in/aristotlepolites)
-    - 📧 aristotle.polites@gmail.com
+ ### Connect
+ - 💼 [LinkedIn](https://www.linkedin.com/in/aristotlepolites)
+ - 📧 aristotle.polites@gmail.com
