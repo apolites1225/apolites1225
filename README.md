@@ -46,9 +46,8 @@ FP&A Analyst with hands-on experience building financial models, variance analys
  ---
 
  ### Currently Developing
-   - Tableau dashboards for financial KPI reporting
-   -   - Python for FP&A automation (pandas, openpyxl, financial modeling)
-       -   - Advanced Excel: scenario modeling, sensitivity analysis, rolling forecasts
+   - Python for FP&A automation (pandas, openpyxl, financial modeling)
+   - Advanced Excel: scenario modeling, sensitivity analysis, rolling forecasts
         
            - ---
 
