@@ -42,7 +42,7 @@ FP&A Analyst with hands-on experience building financial models, variance analys
  [View Repository](https://github.com/apolites1225/olist-revenue-customer-analytics)
 
  <br>  
----
+
 
  ### Currently Developing
    - Python for FP&A automation (pandas, openpyxl, financial modeling)
