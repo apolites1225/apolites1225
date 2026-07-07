@@ -16,6 +16,15 @@ FP&A Analyst with hands-on experience building financial models, variance analys
 
  ### Featured Projects
 
+#### 📈 Maven Tech — Sales Performance & Pipeline Intelligence
+  Excel and Power BI dashboard simulating a quarterly FP&A business review — $10.0M in won revenue, budget-vs-actual quota attainment, and pipeline coverage analysis. Built with Power Query, Power Pivot, DAX, and a tiered commission accelerator model.
+  
+  ![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/crm-sales-fpa/main/images/page1_executive_summary.png)
+  
+  [View Repository](https://github.com/apolites1225/crm-sales-fpa)
+  
+  <br>
+
  #### 📊 iFood — Marketing Campaign Performance
    Excel dashboard analyzing customer spend behavior and campaign ROI across 2,021 customers — acceptors spent 2x more than non-acceptors. Built with Power Query, Power Pivot, DAX, and VBA.
 
@@ -32,18 +41,8 @@ FP&A Analyst with hands-on experience building financial models, variance analys
 
  [View Repository](https://github.com/apolites1225/olist-revenue-customer-analytics)
 
- <br>
-
- #### 🔫 SKU Pricing & Revenue Concentration Analysis
-   SQL analysis of pricing, discount impact, and revenue concentration risk using PostgreSQL CTEs and window functions — top 5 SKUs drove 98%+ of net sales, revealing significant product concentration risk.
-
-   <img src="https://raw.githubusercontent.com/apolites1225/sku-pricing-revenue-concentration-analysis/main/revenue_concentration_query.png" width="700">
-
-   [View Repository](https://github.com/apolites1225/sku-pricing-revenue-concentration-analysis)
-
- <br>
-
- ---
+ <br>  
+---
 
  ### Currently Developing
    - Python for FP&A automation (pandas, openpyxl, financial modeling)
