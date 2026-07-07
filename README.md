@@ -43,7 +43,6 @@ FP&A Analyst with hands-on experience building financial models, variance analys
 
  <br>  
 
-
  ### Currently Developing
    - Python for FP&A automation (pandas, openpyxl, financial modeling)
    - Advanced Excel: scenario modeling, sensitivity analysis, rolling forecasts
