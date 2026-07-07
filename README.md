@@ -19,7 +19,7 @@ FP&A Analyst with hands-on experience building financial models, variance analys
 #### 📈 Maven Tech — Sales Performance & Pipeline Intelligence
   Excel and Power BI dashboard simulating a quarterly FP&A business review — $10.0M in won revenue, budget-vs-actual quota attainment, and pipeline coverage analysis. Built with Power Query, Power Pivot, DAX, and a tiered commission accelerator model.
   
-  ![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/crm-sales-fpa/main/images/page1_executive_summary.png)
+  ![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/crm-sales-fpa/main/images/page1_executive_summary2.png)
   
   [View Repository](https://github.com/apolites1225/crm-sales-fpa)
   
