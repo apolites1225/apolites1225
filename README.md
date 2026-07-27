@@ -17,7 +17,9 @@ FP&A Analyst with hands-on experience building financial models, variance analys
 ### Featured Projects
 
 #### 📊 CAVA Group — FY2026 Restaurant-Level FP&A Forecast
-Excel forecast model reconstructing FY2025 performance from public filings and building a Low/Base/High FY2026 outlook — flags that CAVA's FY2025 same-restaurant sales growth landed at 4%, half the company's original 6-8% guidance range.
+Excel forecast model reconstructing FY2025 performance from public filings and building a Low/Base/High FY2026 outlook. CAVA missed same-restaurant sales guidance by up to 4 points, but unit growth (72 openings vs. 62-66 guided) offset enough of the shortfall to land Adjusted EBITDA within the original guidance range.
+
+![Dashboard Preview](https://raw.githubusercontent.com/apolites1225/cava-fy2026-fpa-portfolio/main/images/kpi_dashboard.png)
 
 [View Repository](https://github.com/apolites1225/cava-fy2026-fpa-portfolio)
 
